@@ -23,7 +23,7 @@ while(i < 100 && (scanBack = scanf("%d", &value)) != EOF){
 	}
 }
 
-printf("Anzahl der Zahlen: %d \n", i);
+/*printf("Anzahl der Zahlen: %d \n", i);*/
 printf("Die zu sortierenden Zahlen:");
 while(a < 100){
 	if(w[a] != 0){
